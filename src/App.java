@@ -1,3 +1,5 @@
+/*Digite seu nome, idade e salário*/
+
 import java.util.Scanner;
 
 public class App {
