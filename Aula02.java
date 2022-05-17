@@ -1,9 +1,6 @@
-
-import java.util.Scanner;
-
 /*Escrever um programa java que receba dois números e exiba o resultado da sua soma*/
 
-
+import java.util.Scanner;
 
 public class Aula02 {
     
